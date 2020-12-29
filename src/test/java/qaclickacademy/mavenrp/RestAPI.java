@@ -8,6 +8,9 @@ public class RestAPI {
 
 	public  void RestAPIlogin() {
 		// TODO Auto-generated method stub
+		System.out.println("This is git1 ");
+		System.out.println("This is git2 ");
+		System.out.println("This is git2=3 ");
 
 	}
 	
