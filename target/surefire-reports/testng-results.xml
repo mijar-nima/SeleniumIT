@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-22T14:29:30 IST" name="Suite" finished-at="2020-12-22T14:29:30 IST" duration-ms="54">
+    <groups>
+    </groups>
+    <test started-at="2020-12-22T14:29:30 IST" name="Test" finished-at="2020-12-22T14:29:30 IST" duration-ms="54">
+      <class name="qaclickacademy.mavenrp.Appium">
+        <test-method signature="Appiumlogout()[pri:0, instance:qaclickacademy.mavenrp.Appium@57c758ac]" started-at="2020-12-22T14:29:30 IST" name="Appiumlogout" finished-at="2020-12-22T14:29:30 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Appiumlogout -->
+      </class> <!-- qaclickacademy.mavenrp.Appium -->
+      <class name="qaclickacademy.mavenrp.RestAPI">
+        <test-method signature="RestAPIlogin()[pri:0, instance:qaclickacademy.mavenrp.RestAPI@a9cd3b1]" started-at="2020-12-22T14:29:30 IST" name="RestAPIlogin" finished-at="2020-12-22T14:29:30 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPIlogin -->
+        <test-method signature="RestAPIlogout()[pri:0, instance:qaclickacademy.mavenrp.RestAPI@a9cd3b1]" started-at="2020-12-22T14:29:30 IST" name="RestAPIlogout" finished-at="2020-12-22T14:29:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPIlogout -->
+      </class> <!-- qaclickacademy.mavenrp.RestAPI -->
+      <class name="qaclickacademy.mavenrp.SeleniumTest">
+        <test-method signature="Sellogin()[pri:0, instance:qaclickacademy.mavenrp.SeleniumTest@13e39c73]" started-at="2020-12-22T14:29:30 IST" name="Sellogin" finished-at="2020-12-22T14:29:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sellogin -->
+        <test-method signature="Sellogout()[pri:0, instance:qaclickacademy.mavenrp.SeleniumTest@13e39c73]" started-at="2020-12-22T14:29:30 IST" name="Sellogout" finished-at="2020-12-22T14:29:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sellogout -->
+      </class> <!-- qaclickacademy.mavenrp.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
